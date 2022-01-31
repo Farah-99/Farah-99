@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farah Fekih a Tunisian Software Engineering Student
-- 👀 I’m interested in IT and Psychology
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on projects related to ML, Mobile development 
+- 👀 I’m interested in everything related to IT
+- 🌱 I’m currently learning Machine Learning / Deep Learning
+- 💞️ I’m looking to collaborate on projects related to Machine Learning and Data Science 
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/farah-fekih/ or Gmail: farahfekiih@gmail.com
 
 <!---
